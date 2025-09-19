@@ -1,0 +1,12 @@
+python-dotenv==1.0.1
+google-api-python-client==2.130.0
+pandas==2.2.3
+numpy==2.3.3
+tqdm==4.66.4
+pyspark==3.5.1
+# pyarrow==17.0.0
+langdetect==1.0.9
+scikit-learn==1.5.2
+# sentence-transformers / torch -> add later after base pipeline works
+streamlit==1.36.0
+plotly==5.23.0
