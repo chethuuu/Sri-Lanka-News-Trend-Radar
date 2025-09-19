@@ -1,0 +1,4 @@
+file,records,channels,published_after,fetched_at
+data/bronze/youtube_raw_20250919T135006Z.jsonl,1773,13,2025-08-20T13:48:41Z,2025-09-19T13:48:41Z
+data/bronze/youtube_raw_20250919T135420Z.jsonl,2801,13,2025-07-21T13:52:05Z,2025-09-19T13:52:05Z
+data/bronze/youtube_raw_20250919T135706Z.jsonl,436,13,2025-06-21T13:55:33Z,2025-09-19T13:55:33Z
